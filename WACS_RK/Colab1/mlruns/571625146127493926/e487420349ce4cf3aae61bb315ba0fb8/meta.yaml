@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/571625146127493926/e487420349ce4cf3aae61bb315ba0fb8/artifacts
+end_time: 1672220243295
+entry_point_name: ''
+experiment_id: '571625146127493926'
+lifecycle_stage: active
+run_id: e487420349ce4cf3aae61bb315ba0fb8
+run_name: unequaled-asp-672
+run_uuid: e487420349ce4cf3aae61bb315ba0fb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672220208823
+status: 4
+tags: []
+user_id: user

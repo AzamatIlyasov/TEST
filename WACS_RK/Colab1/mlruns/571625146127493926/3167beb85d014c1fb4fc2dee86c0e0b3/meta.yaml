@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/571625146127493926/3167beb85d014c1fb4fc2dee86c0e0b3/artifacts
+end_time: 1672221976456
+entry_point_name: ''
+experiment_id: '571625146127493926'
+lifecycle_stage: active
+run_id: 3167beb85d014c1fb4fc2dee86c0e0b3
+run_name: aged-smelt-726
+run_uuid: 3167beb85d014c1fb4fc2dee86c0e0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672221941907
+status: 4
+tags: []
+user_id: user
